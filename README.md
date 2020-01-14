@@ -35,5 +35,5 @@ Computer Vision
 import numpy as np   
 import tensorflow as tf
 ```  
-[![baidu]](http://baidu.com)  
-[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
+[![baidu](http://www.baidu.com/img/bdlogo.gif "百度Logo")](http://baidu.com)  
+[![biying](https://cn.bing.com/sa/simg/hpc27.png "必应logo")](https://cn.bing.com)
