@@ -15,10 +15,8 @@ Computer Vision
 直接回车不能换行,<br>要使用\<br>  
       为什么<br>你<br>这么秀  
 [我的博客](https://blog.csdn.net/guodongxiaren/article/details/23690801 "大白")  
-[![biying]](https://cn.biyiing.com)  
-[biying]:https://cdn.shopify.com/s/files/1/0212/6252/files/Screen_Shot_2018-01-25_at_9.43.55_AM_1024x1024.png?v=1516891524   
-[![baidu]](http://baidu.com)  
-[baidu]:(http://www.baidu.com/img/bdlogo.gif "百度Logo")  
+[![biying](https://cdn.shopify.com/s/files/1/0212/6252/files/Screen_Shot_2018-01-25_at_9.43.55_AM_1024x1024.png?v=1516891524 "必应logo")](https://cn.bing.com)  
+[![baidu](http://www.baidu.com/img/bdlogo.gif "百度Logo")](http://baidu.com)  
       hello, 我是`果冻`<br>   中国
 * `<week1 CV Basic Operations>`
    * 哈哈
